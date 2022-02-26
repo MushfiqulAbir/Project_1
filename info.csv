@@ -1,0 +1,11 @@
+Airlines,arr_time,arr_delay,dest
+ALASKA,497,62,"Los Angeles"
+ALASKA,221,12,Phoneix
+ALASKA,212,20,"San Diego"
+ALASKA,503,102,"San Francisco"
+ALASKA,1841,305,Seattle
+"AM WEST",694,117,"Los Angeles"
+"AM WEST",4840,415,Phoneix
+"AM WEST",383,65,"San Diego"
+"AM WEST",320,129,"San Francisco"
+"AM WEST",201,61,Seattle

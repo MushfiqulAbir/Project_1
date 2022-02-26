@@ -1,0 +1,1 @@
+If we look at the data from the both table named as AlaskaPercentDelay and AMWPercentDelay we can see that AM West has most the delayed arrival times at all the destination
